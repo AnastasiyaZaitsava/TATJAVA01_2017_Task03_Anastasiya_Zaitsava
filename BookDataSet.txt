@@ -1,0 +1,20 @@
+set
+authors Sergei Lukyanenko
+endOfSet
+
+set
+authors Sergei Lukyanenko
+genres fantastic
+endOfSet
+
+set
+name Divergent
+endOfSet
+
+set
+genres science fiction
+endOfSet
+
+set
+name Harry Potter
+endOfSet

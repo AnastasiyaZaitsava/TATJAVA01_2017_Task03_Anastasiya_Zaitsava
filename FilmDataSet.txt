@@ -1,0 +1,29 @@
+set
+genres adventure
+actors Chris Pratt
+endOfSet
+
+set
+genres thriller
+endOfSet
+
+set
+name Divergent
+endOfSet
+
+set
+genres drama
+endOfSet
+
+set
+name Divergent
+actors Naomi Watts
+endOfSet
+
+set
+genres science fiction
+endOfSet
+
+set
+name Harry Potter
+endOfSet
